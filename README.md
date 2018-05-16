@@ -1,1 +1,2 @@
-# LearningManagement_Day1_SingulurGowtam
+# LearningManagement_SingulurGowtam
+It will provide solution for management

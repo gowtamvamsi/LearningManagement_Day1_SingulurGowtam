@@ -1,0 +1,22 @@
+{
+  "name": "LearningManagementSolution_SingulurGowtam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Surya vamsi Gowtam Singulur",
+  "license": "ISC",
+  "dependencies": {
+    "2": "^1.0.2",
+    "body-parser": "^1.18.3",
+    "connect": "^3.6.6",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "sequelize": "^3.24.3",
+    "sqlite3": "^4.0.0"
+  }
+}
